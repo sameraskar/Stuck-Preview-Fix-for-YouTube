@@ -1,0 +1,49 @@
+name: Bug report
+description: Report a case where a preview still sticks or the fix affects the wrong video.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Microsoft Edge
+        - Chromium
+        - Thorium
+        - Brave
+        - Other Chromium-based browser
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Browser version
+      placeholder: "e.g. 151.0.x"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: YouTube page/layout
+      placeholder: "Home, channel Videos tab, search results, etc."
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Trigger
+      options:
+        - Middle-click
+        - Right-click then Open link in new tab
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What happened?
+      description: Include exact reproduction steps and any relevant DOM/console details.
+    validations:
+      required: true
