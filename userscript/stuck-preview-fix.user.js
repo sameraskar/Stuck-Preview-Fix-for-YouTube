@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Stuck Preview Fix
-// @namespace    https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/stuck-preview-fix
+// @namespace    https://github.com/sameraskar/Stuck-Preview-Fix-for-YouTube
 // @version      1.0.0
 // @description  Stops stuck video previews on YouTube after middle-click or right-clicking a video to open it in a new tab.
 // @match        https://www.youtube.com/*

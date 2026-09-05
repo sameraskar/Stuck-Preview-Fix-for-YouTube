@@ -32,6 +32,29 @@ The same Manifest V3 package is designed for:
 
 The extension uses no browser-specific extension API.
 
+## Get the extension
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://microsoftedge.microsoft.com/addons/detail/stuck-preview-fix/igkgbonnjdjpbhjiaodhhkmbogodplln" target="_blank" rel="noopener noreferrer">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_Edge_logo_%282019%29.svg" alt="Microsoft Edge" width="96" height="96">
+      </a>
+      <br>
+      <a href="https://microsoftedge.microsoft.com/addons/detail/stuck-preview-fix/igkgbonnjdjpbhjiaodhhkmbogodplln" target="_blank" rel="noopener noreferrer"><strong>Microsoft Edge</strong></a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/sameraskar/Stuck-Preview-Fix-for-YouTube/releases" target="_blank" rel="noopener noreferrer">
+        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Google_Chrome_icon_%28February_2022%29.svg" alt="Google Chrome" width="96" height="96">
+      </a>
+      <br>
+      <a href="https://github.com/sameraskar/Stuck-Preview-Fix-for-YouTube/releases" target="_blank" rel="noopener noreferrer"><strong>Download</strong></a>
+      <br>
+      <sub>(Store coming soon)</sub>
+    </td>
+  </tr>
+</table>
+
 ## Install locally
 
 ### Chrome / Chromium / Thorium
